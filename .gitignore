@@ -129,6 +129,7 @@ themes/*/
 !themes/_core
 !themes/_libraries
 themes/classic/assets/css/*_rtl.css
+!themes/classicChildTheme
 
 # Vendors and dependencies
 
