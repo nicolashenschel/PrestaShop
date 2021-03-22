@@ -4,7 +4,7 @@ html {
 }
 body {
   direction: ltr;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Roboto Mono';
   font-size: $base-font-size;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -22,7 +22,7 @@ a:hover {
 p {
   font-size: 0.9375rem;
   color: $gray;
-  font-weight: 400;
+  font-weight: 200;
 }
 .dropdown-item:focus,
 .dropdown-item:hover {

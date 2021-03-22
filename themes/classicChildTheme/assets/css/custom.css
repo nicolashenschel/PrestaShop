@@ -1,0 +1,14 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+
+body {
+	font-family: 'Roboto Mono';
+}
+
+b, h1, h2, h3, h4, h5, h6, .b, .h1, .h2, .h3, .h4, .h5, .h6, .nav-link, strong, .product-actions {
+	font-weight: 200;
+}
+
